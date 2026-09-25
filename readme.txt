@@ -1,4 +1,4 @@
-=== niftyConnect Event Notifications ===
+=== niftyConnect – Website Alerts via Messaging Apps & Email ===
 Contributors: juah255
 Tags: notifications, alerts, woocommerce, email notifications, event notifications
 Requires at least: 6.2

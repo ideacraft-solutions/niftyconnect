@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: niftyConnect Event Notifications
+ * Plugin Name: niftyConnect – Website Alerts via Messaging Apps & Email
  * Description: Receive important WordPress and WooCommerce event notifications through extensible notification channels.
  * Version: 1.0.3
  * Requires at least: 6.2
